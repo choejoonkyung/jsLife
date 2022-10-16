@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./index.js localhost 8080"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
